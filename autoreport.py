@@ -21,8 +21,8 @@ if dayofweek == "Saturday":
     y = y + 15
     x = x - 22 * 6
 
-pyautogui.moveTo(120, 875, duration=2)
-pyautogui.click(120, 875)
+pyautogui.moveTo(70, 1062, duration=2)
+pyautogui.click(70, 1062)
 
 pyautogui.moveTo(150, 79, duration=2)
 pyautogui.click(150, 79)
@@ -140,9 +140,6 @@ pyautogui.moveTo(928,504, duration=2)
 pyautogui.click(928,504)
 
 
-# print(today)
-print(dayofweek)
-
 if dayofweek != "Saturday":
     x = x + 22
 
@@ -151,3 +148,5 @@ xwrite.write(str(x))
 
 ywrite = open("y.txt", "w")
 ywrite.write(str(y))
+
+
