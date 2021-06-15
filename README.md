@@ -4,3 +4,7 @@ After this program will be choose today's date.After pressing button "Calculate"
 Next will be add column "Department" & takes tiks from "No.","New State","Exception","Operation".
 After this program will be press button "Export data" & automatically write today's date in the name of Excel spreadsheet with word "report". 
 Just you must be change x & y values for takes correct result.
+
+
+[![made-with-pytelegrambotapi ](https://img.shields.io/badge/Made%20with-pyAutoGUI-1f425f.svg)](https://pyautogui.readthedocs.io/en/latest/#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
