@@ -12,7 +12,7 @@ Just you must be change x & y values for takes correct result.
 ## Instruction
 
 1. Change `x` and `y` values in txt files for current.
-2. Open `cmd` by **Administrator**.
-3. Write in `cmd` `python autoreport.py`.
+2. Open cmd by **Administrator**.
+3. Write in cmd `python autoreport.py`.
 
 **You could be stop the process by press "CTRL+C".**
