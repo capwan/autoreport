@@ -1,4 +1,4 @@
-# About
+# Autoreport 
 This program open "ZTK Attendance Management Program" & after choose "Report" button.
 After this program will be choose today's date.After pressing button "Calculate".After this program will be choose "Clock In/Out Log Exceptions".
 Next will be add column "Department" & takes tiks from "No.","New State","Exception","Operation".
