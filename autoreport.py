@@ -126,12 +126,12 @@ pyautogui.click(853,583)
 
 pyautogui.moveTo(738,526, duration=2)
 pyautogui.click(738,526)
-# # Write Today's Date in the name of Excel Spreadsheet
+# Write Today's Date in the name of Excel Spreadsheet
 pyautogui.typewrite(spreadsheetname)
 pyautogui.press("space")
 pyautogui.typewrite("report")
 
-# # Save Excel Spreadsheet
+# Save Excel Spreadsheet
 pyautogui.moveTo(1035,530, duration=2)
 pyautogui.click(1035,530)
 
